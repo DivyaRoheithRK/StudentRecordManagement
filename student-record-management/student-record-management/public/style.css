@@ -1,0 +1,10 @@
+body{background:#f0f0f7;font-family:Arial;padding:20px;}
+h1,h2{text-align:center;}
+.form-container{display:flex;justify-content:center;gap:10px;margin-bottom:20px;}
+input{padding:10px;border:1px solid #aaa;border-radius:5px;}
+button{padding:10px;background:#4CAF50;color:white;border:none;border-radius:5px;cursor:pointer;}
+table{width:90%;margin:auto;border-collapse:collapse;}
+th,td{border:1px solid #aaa;padding:10px;text-align:center;}
+.action-btn{margin:0 5px;padding:5px;border:none;border-radius:3px;cursor:pointer;}
+.edit{background:orange;}
+.delete{background:red;color:white;}
